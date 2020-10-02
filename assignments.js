@@ -673,7 +673,7 @@ console.log('the product of [5,5,5] is ' + product);
 
 // Assignment 3.4
 
-// Come back to this
+// No questions for this assignment
 
 // Assignment 4.1
 
